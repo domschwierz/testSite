@@ -1,0 +1,68 @@
+html {
+	background-color: #999999;
+}
+
+h1 {
+	background-color: orange;
+	border-style: solid;
+	text-align: center;
+	}
+	
+h2 {
+	color:green;
+	text-align: center;
+	}
+h4 {
+	color:green;
+	text-align: center;
+	}
+@CHARSET "ISO-8859-1";
+
+html {  
+background-color: #999999;
+}
+
+body {  
+background-color: #FFFFFF;  
+width: 80%;  
+margin-left: auto;  
+margin-right: auto;
+}
+
+.mainContent { 
+padding: 0px 5px 10px 5px;
+}
+
+.navigation ol {
+padding: 0px 0px 0px 0px;
+margin: 0px 0px 0px 0px;
+}
+
+
+.navigation {  
+background-color: #00004d;  
+color: #FFFFFF;
+padding: 0px 0px 0px 0px;  
+width: 100%;  
+display: table;
+}
+
+.navigation a:link {  
+color: #ffffff;
+}
+
+.navigation a:visited {  
+color: #ffff00;
+text-decoration: none;
+}
+.navigation li {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	float: left;
+	width: 33.3%;}
+
+
+
+
+
